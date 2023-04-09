@@ -2,7 +2,7 @@
 
 ![alter text](https://img.shields.io/badge/HTML-CSS-orange)
 
-# Trafic_Light
+# Trafic_Light(https://trafic-light-testing.netlify.app/)
 
 ### Trying to make small JS project with the help of arrays & object.
 ### In the CSS part we try to make our webpage better
